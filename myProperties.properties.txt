@@ -1,0 +1,7 @@
+name = extProperty
+
+spring.datasource.url = jdbc:mysql://192.168.1.208:3306/dataextractor?autoReconnect=true&zeroDateTimeBehavior=convertToNull
+spring.datasource.username =miracledb
+spring.datasource.password =lokam001
+server.port=9090
+
